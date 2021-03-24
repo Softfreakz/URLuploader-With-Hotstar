@@ -1,14 +1,14 @@
 class Translation(object):
 
-    START_TEXT = """Hello,
+    START_TEXT = """Hey Bro! 😎 Welcome!!!
 
-This is a Telegram URL Upload Bot!
+This is my own Personal Upload Bot!
 
-<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
+This is for personal use only, do not use without permission and no porn/copyright contents are allowed.
 
-/help for more details..
+I will fucking block you if found any abusive use.
 
-Support Group : @TroJanzSupport
+For More Details or Error Report Contact : @Softfreakz , If you know me personally 😉
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @TroJanzSupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+For More Details or Error Report Contact : @Softfreakz , If you know me personally 😉
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,11 +33,11 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>For More Details or Error Report Contact : @Softfreakz , If you know me personally 😉 </b>  \n\n<a href='https://t.me/Softfreakz'>Click here to contact Owner!!</a>"
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "Wait Bro!! Trying to download your file... 😉"
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading now..😎"
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
